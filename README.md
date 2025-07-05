@@ -8,7 +8,7 @@ The dataset includes 150,000 e-commerce transactions with features such as user 
 
 ## 3. Tools and Techniques Used
 - **Languages:** Python
-- **Libraries:** pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, joblib
+- **Libraries:** pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, joblib, geoip2, shap
 - **Environment:** Jupyter Notebook, Anaconda
 - **Deployment:** Flask API and AWS EC2 instance
 
