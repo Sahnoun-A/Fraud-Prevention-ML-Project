@@ -49,4 +49,4 @@ The dataset includes 150,000 e-commerce transactions with features such as user 
 ## 9. Resources
 - 🗃 [**GitHub Repo**](https://github.com/Sahnoun-A/Fraud-Prevention-ML-Project)
 - 📘 [**Kaggle Notebook**](https://www.kaggle.com/code/abdelkabirsahnoun/fraud-prevention)
-- 🌐 [**Flask API Demo**](http://3.22.126.172:8080)
+- 🌐 [**Flask API Demo**](http://ec2-3-17-9-133.us-east-2.compute.amazonaws.com:8080/)
